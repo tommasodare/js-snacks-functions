@@ -6,7 +6,6 @@ const userName = 'Mario';
 // Dichiara la funzione qui.
 function name() {
     console.log(`Ciao ${userName}`);
-    return
 }
 
 
