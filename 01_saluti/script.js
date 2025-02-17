@@ -14,3 +14,7 @@ name()
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
+
+
+// Bonus Arrow Function
+const name = () => console.log(`Ciao ${userName}`);
